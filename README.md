@@ -4,7 +4,7 @@ This is a daily planner for your everyday work week from 9am - 5pm. Input your p
 
 ## Screenshot
 
-[alt text]
+[alt text](https://github.com/CharlesTran96/Work-Day-Scheduler/blob/main/live1.jpg)
 
 ## Live Page
 
